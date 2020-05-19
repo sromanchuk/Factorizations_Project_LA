@@ -85,7 +85,7 @@ LU_own <- function(x){
 }
 ```
 
-Time tests for LU, QR and Cholesky factorizations, in comparsion via built-in functions and our own implementation of algorithms, on different matrices
+Time tests for LU, QR and Cholesky factorizations, in comparison via built-in functions and our own implementation of algorithms, on different matrices
 
 Part that includes time tests on symmetric non-singular matrices for Cholesky, LU and QR factorizations.
 #timing factorization methods on the 3x3 matrices

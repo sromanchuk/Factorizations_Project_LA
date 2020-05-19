@@ -42,7 +42,7 @@ QR_own <- function(x){
 }
 ```
 
-LU factorization via Doolitle algoritm.
+LU factorization via Doolittle algorithm.
 ```{r}
 LU_own <- function(x){
     n <- nrow(x)
